@@ -22,10 +22,10 @@ The Docker image extends the official [TensorFlow Docker image](https://github.c
 
 * Simple Multiplication
 * Linear Regression
-* [Logistic Regression](https://github.com/ramhiser/Keras-Tutorials/blob/master/02_logistic_regression.ipynb)
-* Feedforward Neural Network (Multilayer Perceptron)
+* [Logistic Regression](https://github.com/ramhiser/Keras-Tutorials/blob/master/notebooks/02_logistic_regression.ipynb)
+* [Feedforward Neural Network (Multilayer Perceptron)](https://github.com/ramhiser/Keras-Tutorials/blob/master/notebooks/03_multilayer_perceptron.ipynb)
 * Deep Feedforward Neural Network (Multilayer Perceptron with 2 Hidden Layers)
-* Convolutional Neural Network
+* [Convolutional Neural Network](https://github.com/ramhiser/Keras-Tutorials/blob/master/notebooks/05_convolutional_neural_net.ipynb)
 * Denoising Autoencoder
 * Recurrent Neural Network (LSTM)
 * Word2vec
