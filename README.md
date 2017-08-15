@@ -21,7 +21,7 @@ The Docker image extends the official [TensorFlow Docker image](https://github.c
 ## Topics
 
 * [Matrix Multiplication](https://github.com/ramhiser/Keras-Tutorials/blob/master/notebooks/00_matrix_multiplication.ipynb)
-* Linear Regression
+* [Linear Regression](https://github.com/ramhiser/Keras-Tutorials/blob/master/notebooks/01_linear_regression.ipynb)
 * [Logistic Regression](https://github.com/ramhiser/Keras-Tutorials/blob/master/notebooks/02_logistic_regression.ipynb)
 * [Feedforward Neural Network (Multilayer Perceptron)](https://github.com/ramhiser/Keras-Tutorials/blob/master/notebooks/03_multilayer_perceptron.ipynb)
 * [Deep Feedforward Neural Network (Multilayer Perceptron with 2 Hidden Layers and Dropout)](https://github.com/ramhiser/Keras-Tutorials/blob/master/notebooks/04_deep_multilayer_perceptron.ipynb)
