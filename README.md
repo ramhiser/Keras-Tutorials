@@ -26,7 +26,7 @@ The Docker image extends the official [TensorFlow Docker image](https://github.c
 * [Feedforward Neural Network (Multilayer Perceptron)](https://github.com/ramhiser/Keras-Tutorials/blob/master/notebooks/03_multilayer_perceptron.ipynb)
 * [Deep Feedforward Neural Network (Multilayer Perceptron with 2 Hidden Layers and Dropout)](https://github.com/ramhiser/Keras-Tutorials/blob/master/notebooks/04_deep_multilayer_perceptron.ipynb)
 * [Convolutional Neural Network](https://github.com/ramhiser/Keras-Tutorials/blob/master/notebooks/05_convolutional_neural_net.ipynb)
-* Denoising Autoencoder
+* [Autoencoder](https://github.com/ramhiser/Keras-Tutorials/blob/master/notebooks/06_autoencoder.ipynb)
 * Recurrent Neural Network (LSTM)
 * Word2vec
 * Save and restore neural net
