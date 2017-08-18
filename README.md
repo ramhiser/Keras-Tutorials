@@ -29,4 +29,5 @@ The Docker image extends the official [TensorFlow Docker image](https://github.c
 * [Autoencoder](https://github.com/ramhiser/Keras-Tutorials/blob/master/notebooks/06_autoencoder.ipynb)
 * Recurrent Neural Network (LSTM)
 * Word2vec
-* Save and restore neural net
+* Transfer Learning
+* Save and Load a Neural Network
